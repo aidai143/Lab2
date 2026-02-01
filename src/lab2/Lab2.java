@@ -9,7 +9,7 @@ public class Lab2 {
         Scanner scanner = new Scanner(System.in);
 
 
-        System.out.print("Введите имя студента: ");
+        System.out.print("Enter the Student's name : ");
         String studentName = scanner.nextLine();
 
         ArrayList<String> subjects = new ArrayList<>();
